@@ -1,4 +1,4 @@
-> **NOTE:** This project is deprecated an no longer actively maintained as of 1st July 2019. More information about the deprecation can be found [here](https://forum.xda-developers.com/windows-8-rt/rt-development/windows-8-1-rt-jailbreak-exploit-t3226835).
+> **NOTE:** This project is deprecated and no longer actively maintained as of 1st July 2019. More information about the deprecation can be found [here](https://forum.xda-developers.com/windows-8-rt/rt-development/windows-8-1-rt-jailbreak-exploit-t3226835).
 
 # [Windows RT 8.1] Development Tool
 The Development Tool helps a Windows RT 8.1 user to boot into _Test Mode_. _Test Mode_ is an environment for developers to run signed ARM-compiled applications in the desktop environment of Windows RT 8.1.
