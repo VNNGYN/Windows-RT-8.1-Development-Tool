@@ -1,4 +1,4 @@
-> **NOTE:** This project is deprecated an no longer actively maintained. 
+> **NOTE:** This project is deprecated an no longer actively maintained as of 1st July 2019.
 
 # [Windows RT 8.1] Development Tool
 The Development Tool helps a Windows RT 8.1 user to boot into _Test Mode_. _Test Mode_ is an environment for developers to run signed ARM-compiled applications in the desktop environment of Windows RT 8.1.
